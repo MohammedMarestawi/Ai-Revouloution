@@ -1,16 +1,55 @@
-# React + Vite
+# AI-Revolution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI landing page built with **React**, **Vite**, and **Tailwind CSS**. This project demonstrates a clean UI, responsive layout, and reusable component structure.
 
-Currently, two official plugins are available:
+## Live Demo
+https://ai-revouloution-nu.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Preview
 
-## React Compiler
+A stylish AI website including:
+- Hero section with call-to-action
+- AI technology cards
+- Benefits section
+- Contact form
+- Footer with resources
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- Tailwind CSS
+- ESLint
+- Node.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+Make sure you have **Node.js** installed.
+
+npm install
+
+## Run Development Server
+
+npm run dev
+
+## Build for Production
+
+npm run build
+
+## Project Structure
+
+src/
+ ├── components/
+ ├── pages/
+ └── App.jsx
+
+## Features
+
+- Responsive design
+- Modern UI with gradients
+- Reusable components
+- Clean layout and spacing
+- Simple and scalable structure
+
+## License
+This project is for learning purposes.
