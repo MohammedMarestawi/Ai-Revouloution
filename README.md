@@ -28,7 +28,7 @@ Make sure you have **Node.js** installed.
 
 npm install
 
-## Run Development Server
+## Run Development Serverr
 
 npm run dev
 
